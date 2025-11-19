@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TradeTracker",
+  "description": "A professional-grade trading journal with analytics, visualization, and AI-powered insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
